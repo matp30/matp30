@@ -7,7 +7,7 @@ Not really, but I'm working on it!
 </p>
 
 
-- CS student at UFMG (Universidade Federal de Minas Gerais)
+- Computer Science student at UFMG (Universidade Federal de Minas Gerais)
 - Interested in data science
 - Hoping to learn competitive programming
 - Amateur pixel artist
