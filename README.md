@@ -8,7 +8,7 @@ Not really, but I'm working on it!
 
 
 - Computer Science student at UFMG (Universidade Federal de Minas Gerais)
-- Interested in data science
+- Interested in Data Science
 - Hoping to learn competitive programming
 - Amateur pixel artist
 - Always looking for new creative projects!
