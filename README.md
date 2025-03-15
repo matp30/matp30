@@ -7,8 +7,8 @@ Not really, but I'm working on it!
 </p>
 
 - Computer Science student at UFMG (Universidade Federal de Minas Gerais)
-- Interested in Data Science
-- Hoping to learn competitive programming
+- Competitive programming enthusiast
+- Undergraduate researcher in Graph Theory
 - Amateur pixel artist
 - Always looking for new creative projects!
 
